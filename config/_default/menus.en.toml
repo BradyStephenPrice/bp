@@ -34,7 +34,7 @@
 
 [[main]]
   name = "Fertilizers"
-  url = "https://www.growwithgrease.com/"
+  pageRef = "Fertilizers"
   weight = 50
 
 #[[main]]
