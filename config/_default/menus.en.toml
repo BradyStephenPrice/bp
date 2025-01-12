@@ -34,7 +34,8 @@
 
 [[main]]
   name = "Fertilizers"
-  pageRef = "Fertilizers"
+# parent = "Parent"
+  pageRef = "fertilizers"
   weight = 50
 
 #[[main]]
