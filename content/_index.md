@@ -1,8 +1,8 @@
 ---
-description: Brady Price website with his biograpghy with a how to page on making your own garden supplys. Connect to Grease website to buy pre made supplys.
+description: Brady Price website with his biograpghy with a how to page on making your garden teaming. Welcome to my public gardening notebook. Here, you can explore my ongoing projects and tasks from year to year, showcasing my work. Learn how to garden like me and follow me! Test and tell if your soils teaming with microbes proven it with a microbiome meter. Team with me and use my recommened products.
 ---
 
- Welcome to my public gardening notebook. Here, you can explore my ongoing projects and tasks from year to year, showcasing my work. Learn how to garden like me and follow me!
+ Welcome to my public gardening notebook. Here, you can explore my ongoing projects and tasks from year to year, showcasing my work. Learn how to garden like me and follow me! Test and tell if your soils teaming with microbes proven it with a microbiome meter. Team with me and use my recommened products.
 
 
 
