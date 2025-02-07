@@ -15,9 +15,9 @@ After 3-4 weeks of planting clone propogation in soil mix
 - Bio Bizz Root - 4 ml/gal
 - Bio Bizz Alg-a-mic - 4 ml/gal
 - Bio Bizz Fish Mix -  4 ml/gal
-- Bio Bizz Grow - 4 ml/gal
+- Bio Bizz Grow - 4 ml/gal  https://amzn.to/42wwKYH
 - Bio Bizz Bloom - 2 ml/gal
-- Bio Bizz Heaven - 2 ml/gal
+- Bio Bizz Heaven - 2 ml/gal  [Bio Heaven To Buy](https://amzn.to/4gn48o7)
 - Epsom Salt - Any Brand - 1/2 gram per gallon
 - Calcium - West Coast Horticulture - 4 ml/gal
 
