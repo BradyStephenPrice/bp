@@ -1,7 +1,7 @@
 ---
 Title: How To Make Compost Tea
 Date: 2025-01-06
-tags: ["Compost Tea, Brewing Tea"]
+tags: ["Compost Tea, Brewing Tea, How To"]
 ---
 
 

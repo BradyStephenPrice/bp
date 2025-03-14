@@ -1,6 +1,7 @@
 ---
-Title: How To Make Crude Oil
+Title: How To Make Plant Crude Oil
 Date: 2024-01-01
+tags: ["Crude Oil, How To"]
 ---
 
 ## Close Loop Propane Crude Oil

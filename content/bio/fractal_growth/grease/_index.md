@@ -1,4 +1,6 @@
 ---
 Title: Grease
-Date: 2024-01-01
+Date: 2023-01-01
 ---
+
+Created a fertilizer line for cannabis and from cannabis. Also sold the best compost from bison. See below different lines and how to make them.

@@ -4,7 +4,8 @@ Description: How to with Brady Price
 
 ---
 
-### Learn from Brady Price on how to! Save and time and money doing and learning from experience. Look through the projects below or support me to ask questions.
+## Learn from Brady Price on How To
+
 
 
 
