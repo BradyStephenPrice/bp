@@ -1,7 +1,7 @@
 ---
 Title: Organic Alternatives
 Date: 2015-04-20
-Tags: ["OA"]
+Tags: ["Organic Alternative, OA"]
 ---
 
 **A Journey to Cultivation Mastery at Organic Alternatives**

@@ -1,7 +1,8 @@
 ---
 Title: Organic Innovations
 Date: 2017-04-20
-Tags: ["OI","Hemp","Farming","South Dakota","Greenhouses"]
+tags: ["Organic Innovations, OI", "Labortory", "Greenhouses", "Dinaminica Generale", "DG", "Orkel", "Nikkal Farms", "Reims Farm", "South Dakota Farms", "DNA", "SunRise", "Plant Stripper", "Western Bakery"]
+ 
 ---
 
 ### Biography: The Journey of Organic Innovations – Pioneering Cannabis Farming and Empowering Communities

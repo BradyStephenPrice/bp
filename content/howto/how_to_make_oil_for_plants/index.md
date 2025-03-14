@@ -1,7 +1,7 @@
 ---
 Title: How To Make Oil For Plants
 Date: 2025-01-05
-tags: ["Oil For Plants, FPJ, How To"]
+tags: ["Oil For Plants", "FPJ", "How To"]
 ---
 
 ### Cannabis oil for plants

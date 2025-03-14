@@ -1,7 +1,7 @@
 ---
 Title: How To Mix Soil
 Date: 2025-01-04
-tags: ["Clones", "Propagation", "Soil Mixing, How To Mix"]
+tags: ["Clones", "Propagation", "Soil Mixing", "How To Mix"]
 ---
 
 ## Clone With Rockwall Cubes

@@ -1,8 +1,8 @@
 ---
 Title: Fractal Growth
 Date: 2020-01-01
-tags: ["grease","fractal growth"]
-categories: [“grease","fractal growth"]
+tags: ["Grease", "Fractal Growth", "Sprinter"]
+
 
 ---
 

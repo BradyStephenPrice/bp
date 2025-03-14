@@ -1,7 +1,7 @@
 ---
 Title: Western Bakery
 Date: 2017-07-20
-Tags: ["Bakery"]
+Tags: ["Western Bakery"]
 ---
 ### Biography: The Rise of Western Bakery - Crafting CBD Cannabis Products from the Ground Up
 

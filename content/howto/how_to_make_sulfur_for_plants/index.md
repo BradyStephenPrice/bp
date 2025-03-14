@@ -1,7 +1,7 @@
 ---
 Title: How To Make Liquid Sulfur For Plants
 Date: 2024-01-01
-tags: ["Sulfur, How To"]
+tags: ["Sulfur", "How To"]
 ---
 
 # LIQUID SULFUR RECIPE

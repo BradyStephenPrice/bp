@@ -1,7 +1,7 @@
 ---
 Title: Dinaminica Generale
 Date: 2018-07-20
-Tags: ["Cannabis Scanner"]
+Tags: ["Dinaminica Generale", "DG", "Cannabis Scanner"]
 ---
 **Joining Forces with Dinaminica Generale: Revolutionizing Cannabis Agriculture with Precision Technology**
 

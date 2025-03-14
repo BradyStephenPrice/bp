@@ -1,7 +1,7 @@
 ---
 Title: How To Make Plant Extract For Plants
 Date: 2024-01-01
-tags: ["Plant Extracts, How To"]
+tags: ["Plant Extracts", "How To"]
 ---
 Extacting plant sugars, proteins, bacteria, and more from different plant materials for making fertilizers and nutrients for plants.
 

@@ -2,7 +2,6 @@
 Title: Cannnabis Harvaster
 Date: 2018-07-14
 tags: ["harvester"]
-categories:  [“harvester”]
 ---
 
 **Building a One-of-a-Kind Cannabis Harvester: A Unique Project in Agricultural Innovation**
