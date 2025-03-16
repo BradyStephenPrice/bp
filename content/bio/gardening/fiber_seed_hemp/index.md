@@ -1,6 +1,5 @@
 ---
 Title: Fiber Seed Hemp
-Date: 2018-01-01
 tags: ["Fiber", "Seed", "Hemp", "Farming"]
 
 ---
