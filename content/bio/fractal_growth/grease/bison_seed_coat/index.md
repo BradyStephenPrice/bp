@@ -1,6 +1,6 @@
 ---
 Title: Bison Seed Coat
-tags: ["Grease", "Bison Seed Coat", "Fertilizers", "Bison Compost"]
+tags: ["Grease", "Bison Seed Coat", "Fertilizers", "Bison Compost", "Fractal Growth", "Seeds"]
 ---
 
 Seed Coat SOP

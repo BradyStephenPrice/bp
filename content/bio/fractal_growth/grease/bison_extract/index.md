@@ -1,6 +1,6 @@
 ---
 Title: Bison Extract
-
+Tags: ["Grease", "Bison Extract", "Fertilizers", "Bison Compost", "Fractal Growth"]
 ---
 
 

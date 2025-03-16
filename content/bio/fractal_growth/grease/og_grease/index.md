@@ -1,6 +1,6 @@
 ---
 Title: OG Grease
-Tags: ["Grease", "SeaWater", "Fertilizers"]
+Tags: ["Grease", "SeaWater", "Fertilizers", "Fractal Growth"]
 
 ---
 

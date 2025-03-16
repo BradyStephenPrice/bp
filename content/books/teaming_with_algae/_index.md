@@ -1,5 +1,5 @@
 ---
-Title: Teaminng With Algae
+Title: Teaming With Algae
 tags: ["Teaming With Algae", "Books"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 Title: Bison Brew
-tags: ["Grease", "Bison", "Fertilizers", "Bison Compost", "Compost"]
+tags: ["Grease", "Bison", "Fertilizers", "Bison Compost", "Compost", "Fractal Growth"]
 ---
 
 Bison Compoast 

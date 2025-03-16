@@ -1,0 +1,4 @@
+---
+Title: Lettuce
+Tags: ["Lettuce","Vegetables","Gardening"]
+---

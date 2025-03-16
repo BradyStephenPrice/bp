@@ -1,6 +1,6 @@
 ---
 Title: Golden Gun
-
+Tags: ["Sulfur", "Grease", "Golden Gun", "Fractal Growth"]
 ---
 
 SULFUR RECIPE

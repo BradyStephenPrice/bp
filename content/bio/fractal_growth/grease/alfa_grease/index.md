@@ -1,6 +1,6 @@
 ---
 Title: Alfa Grease
-tags: ["Grease", "Alfalfa Extract", "Fertilizers"]
+tags: ["Grease", "Alfalfa Extract", "Fertilizers", "Fractal Growth"]
 ---
 
 

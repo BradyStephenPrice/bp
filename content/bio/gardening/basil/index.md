@@ -1,0 +1,4 @@
+---
+Title: Basil
+Tags: ["Basil","Vegetables","Gardening"]
+---
