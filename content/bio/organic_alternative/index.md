@@ -45,3 +45,23 @@ Our dispensary became a cornerstone of the downtown Fort Collins community, offe
 Looking back, my time at Organic Alternatives was a period of immense growth — both professionally and personally. The job fast-tracked my knowledge of **cannabis agriculture**, allowing me to learn about pests, fungi, bacteria, and plant health in ways that I had never encountered before. I had the unique opportunity to not only run a cultivation facility but to help guide a team of talented individuals who shared my passion for cannabis.
 
 At the end of the day, the success of Organic Alternatives wasn’t just about the numbers. It was about the people, the dedication to quality, and the knowledge we built together. What started as a simple job offer turned into a life-changing opportunity that allowed me to contribute to the cannabis industry in ways that will last a lifetime. Organic Alternatives was more than just a dispensary to me — it was the place where my passion for cannabis cultivation truly took root, and where I learned what it truly takes to succeed in the rapidly changing cannabis world.
+
+![alt text](IMG_1539.JPEG)
+![alt text](IMG_1564.JPEG)
+![alt text](IMG_1565.JPEG)
+![alt text](IMG_1601.JPEG)
+![alt text](IMG_1608.JPEG)
+![alt text](IMG_1616.JPEG)
+![alt text](IMG_1699.JPEG)
+![alt text](IMG_1703.JPEG)
+![alt text](IMG_1715.JPEG)
+![alt text](IMG_1729.JPEG)
+![alt text](IMG_1776.JPEG)
+![alt text](IMG_1788.JPEG)
+![alt text](IMG_1824.JPEG)
+![alt text](IMG_1964.JPEG)
+![alt text](IMG_1981.JPEG)
+![alt text](IMG_2050.JPEG)
+![alt text](IMG_2070.JPEG)
+![alt text](IMG_2072.JPEG)
+![alt text](IMG_2145.JPEG)

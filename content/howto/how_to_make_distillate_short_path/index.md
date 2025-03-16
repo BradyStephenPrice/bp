@@ -1,7 +1,7 @@
 ---
 Title: How To Make Distillate On A Short Path
 Date: 2024-01-01
-tags: ["Plant Distillation", "Short Path", "How To"]
+Tags: ["Plant Distillation", "Short Path", "How To"]
 ---
 
 ## Distillation With A Short Path

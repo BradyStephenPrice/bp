@@ -1,7 +1,7 @@
 ---
 Title: Organic Innovations
 Date: 2017-04-20
-tags: ["Organic Innovations, OI", "Labortory", "Greenhouses", "Dinaminica Generale", "DG", "Orkel", "Nikkal Farms", "Reims Farm", "South Dakota Farms", "DNA", "SunRise", "Plant Stripper", "Western Bakery"]
+tags: ["Organic Innovations, OI", "Labortory", "Greenhouses", "Dinaminica Generale, DG", "Orkel", "Nikkal Farms", "Reims Farm", "South Dakota Farms", "DNA", "Sunrise Genetics", "Plant Stripper", "Western Bakery"]
  
 ---
 

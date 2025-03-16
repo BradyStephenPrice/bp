@@ -1,5 +1,6 @@
 ---
 Title: Teaming With Fungi
+Tags: ["Teaming With Fungi", "Books"]
 ---
 
 {{<youtube 9fJyODvIuJM>}}

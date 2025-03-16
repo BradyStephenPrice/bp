@@ -1,5 +1,6 @@
 ---
 Title: Dr.James White
+tags: ["Dr.White", "Books", "Youtube"]
 ---
 
 {{<youtube GJ3-s06srlwQKtJw>}}

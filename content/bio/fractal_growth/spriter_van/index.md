@@ -29,11 +29,18 @@ Every upgrade to my Mercedes-Benz Sprinter Van was carefully thought out to enha
 ![alt text](van_floor_begain.png)
 ![alt text](vanfloor.JPEG)
 ![alt text](van_insulation_top.png)
+![](van_insulatution.jpg)
 ![alt text](van_ac_inside_build.JPEG)
 ![alt text](van_ac_outside_done.png)
 ![alt text](van_inside.png)
 ![alt text](van_pullingwire.png)
-
-
-
-
+![](canopy out.png)
+![](prefinishedwood1.png)
+![](pre_bed.png)
+![](pre_bed2.png)
+![](prefinishedwood2.png)
+![](prefinishedwood3.png)
+![](prewire_up.png)
+![](sidewood_finished_with_controls.png)
+![](top_wood_finished.png)
+![](bed_added.png)

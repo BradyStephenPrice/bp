@@ -1,6 +1,6 @@
 ---
 Title: Teaming With Bacteria
-
+Tags: ["Teaming WITH Bacteria", "Books"]
 ---
 
 Click on "watch on youtube" Short Preview
