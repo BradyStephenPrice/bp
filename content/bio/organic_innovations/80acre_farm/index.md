@@ -1,22 +1,22 @@
 ---
-Title: CR.17 - 80 Acre Farm
+Title: CR.17.5 - 80 Acre Farm
 Date: 2018-04-08
 tags: ["Organic Innovations", "OI", "CBD Hemp"]
 ---
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![](/Screenshot 2024-11-18 at 10.22.38 PM.png)
+![](/cr17_freshdirt.png)
+![](/small_plants_80_acres.png)
+![](/tracker_weeder_1.png)
+![](/tracker_weeder_2.png)
+![](/tracker_weeder.png)
+![](/cr17.JPEG)
+![](/DC6D7561-051A-4D7C-8C05-8C30686CB9A6.JPEG)
+![](/Screenshot 2024-11-18 at 10.21.45 PM.png)
+![](/cr17_nightshoot_2.png)
+![](/cr15_nightshoot_3.png)
+![](/cr15_cherrychery_1.png)
+![](/cr15_budcherry_1.png)
 ![]()
 ![]()
 ![]()
