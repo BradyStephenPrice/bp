@@ -48,3 +48,21 @@ Beyond cannabinoid testing, the AgriNIR technology also offers **applications fo
 The partnership between **Dinaminica Generale** and my farm has led to the creation of a revolutionary tool that has the potential to transform the cannabis industry. The AgriNIR machine offers a complete precision farming circle for cannabis agriculture, integrating nutrient management, cannabinoid testing, and advanced farming techniques into one cohesive system. As an AI-driven technology that continues to learn and improve over time, the AgriNIR machine is a powerful tool that provides real-time insights, greater accuracy, and more efficient farming practices.
 
 By combining cutting-edge technology with years of experience in cannabis cultivation, Dinaminica Generale and I have created a tool that can benefit cannabis farmers at every level, from small-scale operations to large commercial growers. The AgriNIR machine is not just a game-changer for cannabinoid testing but a blueprint for the future of precision farming in the cannabis industry. This partnership is only the beginning of a new era of farming, one where technology and data drive the success of crops and provide a more sustainable, efficient, and profitable way to cultivate cannabis.
+
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()

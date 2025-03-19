@@ -26,3 +26,20 @@ Brew Compost or Dry Mixes in filter bag with bubbling water from bottom to top w
 Make 18 day compost video
 play at 8 mins in!
 https://www.discoverpermaculture.com/pm4origin 
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()

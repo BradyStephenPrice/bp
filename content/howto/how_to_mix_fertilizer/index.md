@@ -66,3 +66,21 @@ Brew Compost in filter bag with bubbling water from bottom to top. Add black str
  - 1 cup black strap molasses
  - Optional to add benefical bacteria or fungi
  - Optional to add bio bizz grow and fish mix
+
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()

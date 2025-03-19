@@ -20,3 +20,19 @@ tags: ["Crude Oil", "How To"]
 
 Optional: Heat Crude oil with Cook Plate @ 100-230 deg. For 1-9 hour for decarboxylation
 
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()

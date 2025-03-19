@@ -52,3 +52,19 @@ Once plants are fully started mix Bio Bizz light Mix with low amounts of Down To
  - Fungi - Many good ones... Like OG Bio War nute pack. Try to buy separate from bacteria.
 
 
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()

@@ -33,3 +33,22 @@ Tags: ["Plant Distillation", "Short Path", "How To"]
 25. Ramp Slow until 220
 26. Cool down to 120 before opening
 27. Extracted oil(s) are purged in vacuum oven at 80-120F for 50- 120 hours at -24 inHg
+
+
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
