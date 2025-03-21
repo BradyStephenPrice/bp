@@ -7,4 +7,8 @@ tags: ["Fertilizers"]
 
 ### Please support and shop through my domain or custom help 
 
-<script type="text/javascript" src="https://buymeacoffee.com/bradyprice" data-name="bmc-button" data-slug="bradyprice" data-color="#FFDD00" data-emoji="👨‍🌾"  data-font="Poppins" data-text="Custom Help With Agriculture" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<script type="text/javascript" src="https://buymeacoffee.com/bradyprice" data-name="bmc-button" data-slug="bradyprice" data-color="#FFDD00" data-emoji="👨‍🌾"  data-font="Poppins" data-text="Agriculture Help" 
+-outline-color="#000000" 
+data-font-color="#000000" 
+data-coffee-color="#ffffff"
+ ></script>
