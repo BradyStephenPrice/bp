@@ -1,5 +1,5 @@
 ---
-Title: Cyanobateria
+Title: Cyanobacteria
 Date: 2024-04-08
 Tags: ["Cyanobateria","Algae"]
 ---
