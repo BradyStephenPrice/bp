@@ -12,3 +12,5 @@ tags: ["Dr.White", "Books", "Youtube", "Teaming With Dr.White"]
 {{<youtube fFqPFMVRtn4>}}
 *
 {{<youtube BEDzMdnwTCk>}}
+*
+{{<youtube hZRPfPLaGZk>}}

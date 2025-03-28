@@ -1,7 +1,7 @@
 ---
 Title: How To Mix Fertilizer
 Date: 2024-01-01
-tags: ["Fertilizer Recipes","Bio Bizz Recipe","Compost Tea Recipe", "How To Mix"]
+tags: ["Fertilizer Recipes","Bio Bizz Recipe","Compost Tea Recipe", "How To Mix", "How To"]
 ---
 # Organic Fertilizer Recipes
 
