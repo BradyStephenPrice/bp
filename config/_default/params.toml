@@ -125,13 +125,13 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+   apiKey = "AIzaSyCdgCn0F2pipnPNqApBrmYQsdc3K5sNRFQ"
+   authDomain = "bp-likes.firebaseapp.com"
+   projectId = "bp-likes"
+   storageBucket = "bp-likes.firebasestorage.app"
+   messagingSenderId = "622969071289"
+   appId = "1:622969071289:web:7c90713403740769569d68"
+   measurementId = "G-S47TVCNW9J"
 
 [fathomAnalytics]
   # site = "ABC12345"
