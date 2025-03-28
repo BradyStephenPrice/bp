@@ -1,13 +1,14 @@
 ---
 Title: Dr.James White
-tags: ["Dr.White", "Books", "Youtube"]
+tags: ["Dr.White", "Books", "Youtube", "Teaming With Dr.White"]
 ---
 
-{{<youtube GJ3-s06srlwQKtJw>}}
+{{<youtube oBTqOMzXZAo>}}
 *
-
-{{<youtube sNsEMKyhoe91TE5K>}}
+{{<youtube JSQh81snqas>}}
 *
-{{<youtube hIWXsmC-bT8ig_Oy>}}
+{{<youtube OAhw_lfq7vw>}}
 *
 {{<youtube fFqPFMVRtn4>}}
+*
+{{<youtube BEDzMdnwTCk>}}
