@@ -6,6 +6,7 @@ Tags: ["Dinaminica Generale", "DG", "Cannabis Scanner"]
 **Joining Forces with Dinaminica Generale: Revolutionizing Cannabis Agriculture with Precision Technology**
 
 My journey into joining **Dinaminica Generale**, an Italian-based precision agricultural company, was not something I could have predicted, but it has been a transformative partnership that will forever change the way we approach cannabis farming. Known for its cutting-edge technology, especially the NIR (Near Infrared) scanner designed for nutrient-on-demand output, Dinaminica Generale specializes in optimizing crop yields with high-precision technology. The partnership started in an unexpected way: when their CEO toured my farm, we began a conversation that would lead to one of the most innovative collaborations in the cannabis industry. What started as a simple discussion about technology, crops, and agriculture would eventually grow into a partnership aimed at revolutionizing cannabis cultivation, from nutrient management to cannabinoid testing and beyond.
+![Dinaminica_hemp](<flyer oi dg.png>)
 
 ### **The Initial Encounter: A Meeting of Minds**
 
@@ -49,20 +50,28 @@ The partnership between **Dinaminica Generale** and my farm has led to the creat
 
 By combining cutting-edge technology with years of experience in cannabis cultivation, Dinaminica Generale and I have created a tool that can benefit cannabis farmers at every level, from small-scale operations to large commercial growers. The AgriNIR machine is not just a game-changer for cannabinoid testing but a blueprint for the future of precision farming in the cannabis industry. This partnership is only the beginning of a new era of farming, one where technology and data drive the success of crops and provide a more sustainable, efficient, and profitable way to cultivate cannabis.
 
+{{< gallery >}}
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+  <img src="agirnir_front.png" class="grid-w33" />
+
+  <img src="agirnir_loaderscreen_crumble.png" class="grid-w33" />
+
+  <img src="agirnir_printout.png" class="grid-w33" />
+
+  <img src="agirnir_screen_2.png" class="grid-w33" />
+
+  <img src="agrinir_box.png" class="grid-w33" />
+
+  <img src="agrinir_loadedscanner.png" class="grid-w33" />
+
+  <img src="agrinnir_screen.png" class="grid-w33" />
+
+{{< /gallery >}}
+
+  
+![Hemp_Dinaminca](<Screenshot 2024-11-18 at 10.20.07 PM.png>)
+![CDA_and_Hemp_tester](<Screenshot 2024-11-18 at 10.20.39 PM.png>)
+![alt text](Agrinir_frontview.png)
+![alt text](single_fyler_dg.png)
+
+
