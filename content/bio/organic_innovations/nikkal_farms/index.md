@@ -13,6 +13,10 @@ The Nikkal plants sure grew great.
 
 ![Greeley,Colorado Hemp Farm](<Screenshot 2025-03-15 at 1.31.38 PM.png>)
 
+![alt text](04C87612-D821-493B-BDD3-3E78A4C5AA4E_1_105_c.jpeg)
+
+![alt text](8FBB9AD7-B927-4F9E-A40E-15F4C5BD4719_1_105_c.jpeg)
+
 ![Cliff Cilff](featured.png)
 *Dam, almost got you!*
 
