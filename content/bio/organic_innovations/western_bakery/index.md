@@ -52,3 +52,16 @@ As Western Bakery continues to grow, the future is full of possibilities. The fo
 The journey of Western Bakery, from a home kitchen to a full-fledged commercial operation, is a testament to the founder’s dedication, skill, and passion for the cannabis industry. It shows how far hard work and a commitment to quality can take a person, even when starting from a modest garage kitchen. Western Bakery’s success is not just about crafting great CBD products; it’s about creating a community of customers who trust and appreciate the quality and care that goes into each product.
 
 Today, Western Bakery is not just a company; it's a movement—a brand built on wellness, innovation, and a genuine love for what it creates. The future looks bright for Western Bakery, and the founder's journey is far from over.
+
+![alt text](western_bison.png)
+![alt text](western_stocked_friege.png)
+![alt text](IMG_9513.JPEG)
+![alt text](IMG_8992.JPG)
+![alt text](IMG_4941.jpeg)
+![alt text](<filling machine pic.jpeg>)
+![alt text](filling_cbd_pills.jpeg)
+![alt text](pills.jpeg)
+![alt text](cbd_pen.jpeg)
+![alt text](<band aid idea.jpeg>)
+![alt text](tincture.jpeg)
+![alt text](featured1.png)
