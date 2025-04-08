@@ -7,4 +7,5 @@ Tags: ["Strawberries","Vegetables","Gardening"]
 ![alt text](2A12EBC8-1ADD-4ECB-BF2B-6FA2399AE41F_1_105_c.jpeg)
 ![alt text](2F5AE8D9-CF0F-4798-A90B-62EC45B5AAC6_1_105_c.jpeg)
 ![alt text](03C5FE87-3A64-4600-AA69-EAED209777F4_1_105_c.jpeg)
+![alt text](1.jpeg)
 

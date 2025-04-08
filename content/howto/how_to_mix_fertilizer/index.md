@@ -67,20 +67,31 @@ Brew Compost in filter bag with bubbling water from bottom to top. Add black str
  - Optional to add benefical bacteria or fungi
  - Optional to add bio bizz grow and fish mix
 
+## Best Microbes and Fungi for Cannabis
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![alt text](D427FCD4-087E-4A6F-B82F-D0015397F096_1_105_c.jpeg)
+![alt text](879A9EE8-5E45-4FB5-8342-EA1BB9596355_1_105_c.jpeg)
+![alt text](600A5EFB-EF4B-4BEF-A586-45AD7C844573_1_105_c.jpeg)
+
+
+## Best Spreader or Emulsifer for Sprays
+![alt text](3E3D1869-6FA1-4007-8CDC-59A3BB2C02D2_1_105_c.jpeg)
+
+## Best Dry Organic Poison
+6% that doesnt burn!
+![alt text](B7860D60-F1B7-4D03-BF16-6101883694E2_1_105_c.jpeg)
+
+# Watering
+![alt text](3E3D1869-6FA1-4007-8CDC-59A3BB2C02D2_1_105_c.jpeg)
+![alt text](600A5EFB-EF4B-4BEF-A586-45AD7C844573_1_105_c.jpeg)
+![alt text](879A9EE8-5E45-4FB5-8342-EA1BB9596355_1_105_c.jpeg)
+![alt text](B7860D60-F1B7-4D03-BF16-6101883694E2_1_105_c.jpeg)
+![alt text](D427FCD4-087E-4A6F-B82F-D0015397F096_1_105_c.jpeg)
+![alt text](<Screenshot 2025-03-14 at 2.20.40 PM.png>)
+![alt text](<Screenshot 2025-03-14 at 2.20.56 PM.png>)
+![alt text](<Screenshot 2025-04-01 at 7.29.37 PM.png>)
+![alt text](<Screenshot 2025-04-01 at 7.30.08 PM.png>)
+![alt text](<Screenshot 2025-04-01 at 7.30.43 PM.png>)
+![alt text](<Screenshot 2025-04-01 at 7.32.54 PM.png>)
+![alt text](<Screenshot 2025-04-01 at 7.33.09 PM.png>)
+![alt text](<Screenshot 2025-04-01 at 7.41.54 PM.png>)

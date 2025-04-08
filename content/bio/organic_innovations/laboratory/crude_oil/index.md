@@ -21,7 +21,7 @@ Optional: Heat Crude oil with Cook Plate @ 100-230 deg. For 1-9 hour for decarbo
 
 ![alt text](MePFront.png)
 ![alt text](<ets_hooked up.png>)
-![alt text](oil_crude.png)
+![alt text](crude.png)
 ![alt text](IMG_2063.jpeg)
 ![alt text](IMG_2090.jpeg)
 ![alt text](<CBD Live Resin.jpeg>)
