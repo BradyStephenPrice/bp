@@ -1,4 +1,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:bradystephenprice.github.io.git
-
+	branch = main
+	update = merge
+	
