@@ -12,6 +12,7 @@ exampleSite/resources/
 
 # Test binary, built with `go test -c`
 *.test
+hugo server
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
