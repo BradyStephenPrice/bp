@@ -4,6 +4,7 @@
 
  theme = "blowfish" 
  baseURL = "https://bradystephenprice.github.io/"
+ publishDir = "bradystephenprice.github.io"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
