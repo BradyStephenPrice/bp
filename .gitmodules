@@ -3,3 +3,7 @@
     url = git@github.com:bradystephenprice.github.io.git
     branch = main
     update = merge
+[submodule "bradystephenprice.github.io"]
+	path = bradystephenprice.github.io
+	url = https://github.com/BradyStephenPrice/bradystephenprice.github.io.git
+	branch = main
