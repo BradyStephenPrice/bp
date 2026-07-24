@@ -8,7 +8,7 @@ Introduction
 
 Brief overview of the importance of microorganisms in our ecosystem
 Explanation of the unique characteristics and benefits of cyanobacteria
-Thesis statement: By understanding and harnessing the power of cyanobacteria, we can create a more sustainable and resilient world.
+Thesis statement: By understanding and harnessing the power of cyanobacteria, we can create a more sustainable and resilient world. 1
 
 Part 1: The Biology of Cyanobacteria
 
