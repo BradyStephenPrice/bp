@@ -8,7 +8,7 @@ Tags: ["Cyanobateria","Algae"]
 
 #### Abstract:
 This project explores the isolation and cultivation of nitrogen free cyanobacteria from *Nostoc* algae found in Colorado wild grass. Using a novel approach of vacuum oven isolation in nitrogen-free media with maltose and a specialized 90-mineral salt mix, we isolated and cultured the cyanobacteria under controlled conditions. A dark bioreactor setup with maltose as a substrate with a short-path distiller was employed to cultivate the cyanobacteria. The experimental results demonstrate that the bioreactor generated a pressure differential ranging from -28 inHg to 0 inHg, within a 6 to 12-hour timeframe, per gallon of maltose, depending on distillation efficiency. This research presents a promising avenue for the use of *Nostoc* cyanobacteria in bioreactor systems and microbial fuel cell applications. 
-12888
+
 
 ---
 Isolation bacteria inside cyanobateria
