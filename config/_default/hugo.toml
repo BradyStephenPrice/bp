@@ -4,7 +4,7 @@
 
  theme = "blowfish" 
  baseURL = "https://bradystephenprice.github.io/"
- publishDir = "bradystephenprice.github.io"
+ publishDir = "public"
  timeout = "10m"
 defaultContentLanguage = "en"
 

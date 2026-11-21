@@ -34,6 +34,6 @@ jobs:
           personal_token: ${{ secrets.GH_PAT }}
           external_repository: BradyStephenPrice/bradystephenprice.github.io
           publish_branch: main
-          publish_dir: ./bradystephenprice.github.io
+          publish_dir: ./public
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
