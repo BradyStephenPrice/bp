@@ -23,8 +23,9 @@ echo ""
 echo "📤 Updating public submodule (bradystephenprice.github.io)..."
 cd "$DIR/public"
 
-# Ensure we're on main branch
+# Ensure we're on main branch and up to date
 git checkout main 2>/dev/null || git checkout -b main origin/main
+git pull origin main --rebase 2>/dev/null || true
 
 # Stage all changes in public
 git add -A
