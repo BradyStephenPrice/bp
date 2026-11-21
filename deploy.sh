@@ -24,7 +24,10 @@ echo "📤 Updating public submodule (bradystephenprice.github.io)..."
 cd "$DIR/public"
 
 # Ensure we're on main branch and up to date
-git checkout main 2>/dev/null || git checkout -b main origin/main
+CURRENT_BRANCH=$(git branch --show-current 2>/dev/null || echo "")
+if [ "$CURRENT_BRANCH" != "main" ]; then
+  git checkout main 2>/dev/null || git checkout -b main origin/main 2>/dev/null || true
+fi
 git pull origin main --rebase 2>/dev/null || true
 
 # Stage all changes in public

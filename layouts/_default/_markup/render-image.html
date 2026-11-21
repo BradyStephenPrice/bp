@@ -2,24 +2,49 @@
 {{- $url := urls.Parse .Destination }}
 {{- $altText := .Text }}
 {{- $caption := .Title }}
+{{- $path := $url.Path | default .Destination }}
+{{- $style := "" }}
+{{- with $url.Fragment }}
+  {{- if eq . "small" }}
+    {{- $style = "max-width: 180px; width: 100%;" }}
+  {{- else if eq . "tiny" }}
+    {{- $style = "max-width: 120px; width: 100%;" }}
+  {{- else if eq . "medium" }}
+    {{- $style = "max-width: 320px; width: 100%;" }}
+  {{- else if eq . "center" }}
+    {{- $style = "margin-left: auto; margin-right: auto;" }}
+  {{- else if eq . "small-center" }}
+    {{- $style = "max-width: 180px; width: 100%; margin-left: auto; margin-right: auto;" }}
+  {{- else if eq . "float-left" }}
+    {{- $style = "max-width: 180px; width: 100%; float: left; margin: 0 1.5rem 1rem 0;" }}
+  {{- else if eq . "float-right" }}
+    {{- $style = "max-width: 180px; width: 100%; float: right; margin: 0 0 1rem 1.5rem;" }}
+  {{- else if findRE "^[0-9]+(px)?$" . }}
+    {{- $style = printf "max-width: %spx; width: 100%;" (replace . "px" "") }}
+  {{- end }}
+{{- end }}
 {{- if findRE "^https?" $url.Scheme }}
-  <figure>
+  <figure{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
     <img class="my-0 rounded-md" loading="lazy" src="{{ $url.String }}" alt="{{ $altText }}" />
     {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
   </figure>
 {{- else }}
   {{- $resource := "" }}
-  {{- if $.Page.Resources.GetMatch .Destination }}
+  {{- if $.Page.Resources.GetMatch $path }}
+    {{- $resource = $.Page.Resources.GetMatch $path }}
+  {{- else if $.Page.Resources.GetMatch .Destination }}
     {{- $resource = $.Page.Resources.GetMatch .Destination }}
   {{- else if $.Page.Resources.GetMatch ($url.String) }}
     {{- $resource = $.Page.Resources.GetMatch ($url.String) }}
+  {{- else if resources.GetMatch $path }}
+    {{- $resource = resources.Get $path }}
   {{- else if resources.GetMatch .Destination }}
     {{- $resource = resources.Get .Destination }}
   {{- else if resources.GetMatch ($url.String) }}
     {{- $resource = resources.Get ($url.String) }}
   {{- end }}
   {{- with $resource }}
-    <figure>
+    <figure{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
       {{- if or $disableImageOptimization (eq .MediaType.SubType "svg")}}
       <img
         class="my-0 rounded-md"
@@ -43,7 +68,7 @@
       {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
     </figure>
   {{- else }}
-    <figure>
+    <figure{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
       <img class="my-0 rounded-md" loading="lazy" src="{{ $url.String }}" alt="{{ $altText }}" />
       {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
     </figure>
