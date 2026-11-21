@@ -72,6 +72,6 @@ By combining cutting-edge technology with years of experience in cannabis cultiv
 ![Hemp_Dinaminca](<Screenshot 2024-11-18 at 10.20.07 PM.png>)
 ![CDA_and_Hemp_tester](<Screenshot 2024-11-18 at 10.20.39 PM.png>)
 ![alt text](Agrinir_frontview.png)
-![alt text](single_fyler_dg.png)
+![alt text](<flyer oi dg.png>)
 
 

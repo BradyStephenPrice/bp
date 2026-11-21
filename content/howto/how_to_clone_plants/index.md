@@ -11,5 +11,5 @@ Mother Plants
 ![alt text](20890656-5F65-4D40-AA1A-410C27E0298F_1_105_c.jpeg)
 
 
-![alt text](../../bio/organic_innovations/25898_cr17.5_farm/roots.png)
+![alt text](roots.png)
 ![alt text](roots_2.png)

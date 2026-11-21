@@ -15,11 +15,11 @@ tags: ["Lacto For Plants","How To"]
 5. Ferment milk and rice water until it seperates. Lacto bacteria on bottom and farm house chesse on top. 
 
 
-![](/milk_with_ricewash_day1.png)
-![](/Fermented_whey_sideview_cbd.png)
-![](/fermented_whey_with_cbd.png)
-![](/lacto_and_cheese_with_cbd.png)
-![](/cheesetop_with_cbd.png)
-![](/cheesetop_with_cbd2.png)
-![](/cheeseandcbd.png)
+![](milk_with_ricewash_day1.png)
+![](Fermented_whey_sideview_cbd.png)
+![](fermented_whey_with_cbd.png)
+![](lacto_and_cheese_with_cbd.png)
+![](cheesetop_with_cbd.png)
+![](cheesetop_with_cbd2.png)
+![](cheeseandcbd.png)
 ![alt text](2075010F-0E35-4A56-9E97-4B97AFF05BE9_1_105_c.jpeg)

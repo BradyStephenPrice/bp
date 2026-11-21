@@ -107,11 +107,11 @@ This project lays the groundwork for future exploration of *Nostoc* cyanobacteri
 
 test
 
-![](/bioreactor_idea.png)
-![](/brady_with_stain4_Little_Dab.jpg)
+![](bioreactor_idea.png)
+![](brady_with_stain4_Little_Dab.jpg)
 ![alt text](Little_dab_1_with_stain_14.jpg)
 ![alt text](0007_3.jpg)
-![alt text](/Little_Dab_1_Satin_with_4_brady_Sample.jpg)
-![alt text](/Little_dab_1_with_Stain4_2.jpg)
+![alt text](Little_Dab_1_Satin_with_4_brady_Sample.jpg)
+![alt text](Little_dab_1_with_Stain4_2.jpg)
 ![alt text](Little_dab1.jpg)
 ![alt text](little_dab1_4x_with_Stain_4.jpg)
